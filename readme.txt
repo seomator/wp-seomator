@@ -3,7 +3,7 @@ Contributors: https://seomator.com
 Tags: seo, shortcode, widget, sales, leads
 Donate link: https://seomator.com
 Requires at least: 4.0
-Tested up to: 4.2.4
+Tested up to: 4.7
 
 Use seomator.com as an automated analysis tool and at the same time embed free white label SEO audit tool on your website for your potential clients!
 
