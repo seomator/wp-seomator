@@ -1,0 +1,39 @@
+.seomator-plugin-form .option-description {
+    margin-bottom: 15px;
+}
+
+.seomator-plugin-form .type-wrap {
+<<<<<<< HEAD
+    width: 30%;
+=======
+    max-width: 30%;
+>>>>>>> fix-wp-plugin-for-new-leadgen
+    float: left;
+    padding: 0 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+<<<<<<< HEAD
+.seomator-plugin-form .init-form-type .type-wrap {
+    height: 165px;
+}
+
+=======
+>>>>>>> fix-wp-plugin-for-new-leadgen
+.seomator-plugin-form .type-wrap .type-thumb {
+    display: block;
+}
+
+.seomator-plugin-form .type-wrap .type-thumb img {
+<<<<<<< HEAD
+    width: 100%;
+=======
+    max-width: 100%;
+    height: auto;
+>>>>>>> fix-wp-plugin-for-new-leadgen
+}
+
+.seomator-plugin-form .type-wrap input[type=radio] {
+    margin-top: 0;
+}
